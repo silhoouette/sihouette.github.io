@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>你好，这里是silhouette的博客</title><link>https://silhoouette.github.io/sihouette.github.io</link><description>我是sihouette</description><copyright>你好，这里是silhouette的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/162534268?v=4</url><title>avatar</title><link>https://silhoouette.github.io/sihouette.github.io</link></image><lastBuildDate>Tue, 07 Oct 2025 15:40:32 +0000</lastBuildDate><managingEditor>你好，这里是silhouette的博客</managingEditor><ttl>60</ttl><webMaster>你好，这里是silhouette的博客</webMaster><item><title>test</title><link>https://silhoouette.github.io/sihouette.github.io/post/test.html</link><description># test
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>你好，这里是silhouette的博客</title><link>https://silhoouette.github.io/sihouette.github.io</link><description>我是sihouette</description><copyright>你好，这里是silhouette的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/162534268?v=4</url><title>avatar</title><link>https://silhoouette.github.io/sihouette.github.io</link></image><lastBuildDate>Wed, 08 Oct 2025 06:13:05 +0000</lastBuildDate><managingEditor>你好，这里是silhouette的博客</managingEditor><ttl>60</ttl><webMaster>你好，这里是silhouette的博客</webMaster><item><title>从今天开始，我要记录学习</title><link>https://silhoouette.github.io/sihouette.github.io/post/cong-jin-tian-kai-shi-%EF%BC%8C-wo-yao-ji-lu-xue-xi.html</link><description>
+---
+title: 从今天开始，我要记录学习
+date: 2025-10-08
+categories: 学习记录
+---
+
+## 👋 前言
+
+这是我的第一篇博客。</description><guid isPermaLink="true">https://silhoouette.github.io/sihouette.github.io/post/cong-jin-tian-kai-shi-%EF%BC%8C-wo-yao-ji-lu-xue-xi.html</guid><pubDate>Wed, 08 Oct 2025 06:12:30 +0000</pubDate></item><item><title>test</title><link>https://silhoouette.github.io/sihouette.github.io/post/test.html</link><description># test
 &gt; 第一篇博客
 
 我是silhouette，这是我的第一篇博客，我会在这里分享我的学习经历和记录我的成长历程
