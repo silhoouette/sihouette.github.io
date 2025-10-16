@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>你好，这里是silhouette的博客</title><link>https://silhoouette.github.io/sihouette.github.io</link><description>我是sihouette</description><copyright>你好，这里是silhouette的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/162534268?v=4</url><title>avatar</title><link>https://silhoouette.github.io/sihouette.github.io</link></image><lastBuildDate>Wed, 08 Oct 2025 06:27:24 +0000</lastBuildDate><managingEditor>你好，这里是silhouette的博客</managingEditor><ttl>60</ttl><webMaster>你好，这里是silhouette的博客</webMaster><item><title>手动流水灯</title><link>https://silhoouette.github.io/sihouette.github.io/post/shou-dong-liu-shui-deng.html</link><description>&lt;img width='746' height='439' alt='Image' src='https://github.com/user-attachments/assets/83545ea2-d816-4324-9310-dc23a6dd63bf' /&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>你好，这里是silhouette的博客</title><link>https://silhoouette.github.io/sihouette.github.io</link><description>我是sihouette</description><copyright>你好，这里是silhouette的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/162534268?v=4</url><title>avatar</title><link>https://silhoouette.github.io/sihouette.github.io</link></image><lastBuildDate>Thu, 16 Oct 2025 16:42:55 +0000</lastBuildDate><managingEditor>你好，这里是silhouette的博客</managingEditor><ttl>60</ttl><webMaster>你好，这里是silhouette的博客</webMaster><item><title>嵌入式开发学习路线</title><link>https://silhoouette.github.io/sihouette.github.io/post/qian-ru-shi-kai-fa-xue-xi-lu-xian.html</link><description> - [ ] c							14
+ - [ ] 51 							28
+ - [ ] stm32 开发				        66
+ - [ ] 32 freeRTOS			                34
+ - [ ] linuxs						52
+ - [ ] c+							52
+ - [ ] qt c++						48
+- [ ] 32 hal库					        152
+ - [ ] linux 系统移植		                        28
+ - [ ] linux 设备驱动		                        13
+。</description><guid isPermaLink="true">https://silhoouette.github.io/sihouette.github.io/post/qian-ru-shi-kai-fa-xue-xi-lu-xian.html</guid><pubDate>Thu, 16 Oct 2025 16:42:21 +0000</pubDate></item><item><title>手动流水灯</title><link>https://silhoouette.github.io/sihouette.github.io/post/shou-dong-liu-shui-deng.html</link><description>&lt;img width='746' height='439' alt='Image' src='https://github.com/user-attachments/assets/83545ea2-d816-4324-9310-dc23a6dd63bf' /&gt;
 
 [SCH_Schematic1_2025-10-08.pdf](https://github.com/user-attachments/files/22759984/SCH_Schematic1_2025-10-08.pdf)
 
